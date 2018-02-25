@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "mysql": "^2.15.0",
+    "node-xlsx": "^0.11.2",
+    "request": "^2.83.0",
+    "uekcookie": "^1.0.2",
+    "ueklight": "^1.0.9",
+    "uekmulter": "^1.0.4",
+    "uekpost": "^1.0.1",
+    "uekquery": "^1.0.0"
+  }
+}
